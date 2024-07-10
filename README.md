@@ -28,7 +28,7 @@
 ## <img src="https://media.tenor.com/eXPpVjeORscAAAAi/brainpull-brainpull-stories.gif" width="30" height="30" style="padding-right: 15px;"><b> Algo de mi trabajo</b>  
 <div>
   <p>
-    <a href="https://github.com/Felipe-Rincon05/Automatizacion-login-compra">
+    <a href="https://github.com/Felipe-Rincon05/RES_ANE_773">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Rincon05&repo=RES_ANE_773" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Felipe-Rincon05/Automatizacion-login-compra">

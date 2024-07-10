@@ -7,7 +7,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,css,html,gherkin,gradle,selenium,java,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,dotnet,css,html,gherkin,gradle,selenium,java,mysql,postgres" />
   </a>
 </p>
 <br/>
